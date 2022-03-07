@@ -1,4 +1,6 @@
-### Salut ! Je suis Eclixal 👋
+### Salut ! Je suis Eclixal 🔥
+
+![github-metrics](github-metrics.svg)
 
 Je suis actuellement étudiant en M1 Informatique à l'Université de Lille 👀
 
