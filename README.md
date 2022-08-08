@@ -2,7 +2,7 @@
 
 ![github-metrics](github-metrics.svg)
 
-Je suis actuellement étudiant en M1 Informatique à l'Université de Lille 👀
+Je suis actuellement étudiant en M2 Informatique à l'Université de Lille 👀
 
 Je développe dans mon coin des applications. J'essaye d'innover et d'en apprendre toujours plus 🎭
 
