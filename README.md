@@ -108,8 +108,7 @@ Retrouvez mes projets les plus intéressants épinglés ci-dessous ou explorez t
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Eclixal-181717?style=for-the-badge&logo=github)](https://github.com/Eclixal)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@eclixal.dev)
-[![Discord](https://img.shields.io/badge/Discord-Eclixal-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:contact@eclixal.dev)
 
 </div>
 
