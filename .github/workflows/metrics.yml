@@ -11,6 +11,8 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Metrics
         uses: lowlighter/metrics@latest
@@ -25,6 +27,8 @@ jobs:
   
   snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
