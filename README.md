@@ -1,5 +1,5 @@
-### Salut ! Je suis Eclixal (Alexandre) 🔥
+# Hi, I'm Alexandre 👋
 
-![github-metrics](github-metrics.svg)
+Developer building web, mobile, and game projects.
 
-Je développe dans mon coin des applications. J'essaye d'innover et d'en apprendre toujours plus 🎭
+I enjoy creating useful applications, exploring new technologies, and learning through hands-on projects.
